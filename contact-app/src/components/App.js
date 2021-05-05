@@ -23,7 +23,7 @@ function App() {
     console.log(contact);
     const request = {
       id: uuid(),
-      ...contact,
+      ...contact, 
     };
 
     const response = await api.post("/contacts", request);
