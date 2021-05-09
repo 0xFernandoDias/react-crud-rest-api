@@ -1,3 +1,3 @@
 # The screenshot of the project!
 
-![]((image/screenshot.jpeg)
+![](image/screenshot.jpeg)
