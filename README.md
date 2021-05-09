@@ -1,3 +1,3 @@
-# A screenshot of the project!
+# The screenshot of the project!
 
 ![](react-crud-rest-api/image/screenshot.jpeg)
